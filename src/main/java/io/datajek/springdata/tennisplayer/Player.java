@@ -18,6 +18,10 @@ public class Player {
         this.titles = titles;
     }
 
+    public Player() {
+
+    }
+
     public int getId() {
         return id;
     }
